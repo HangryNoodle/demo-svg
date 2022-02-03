@@ -1,1 +1,8 @@
 /* developer styles go here */
+div {
+    display: flex;
+}
+
+svg {
+    fill: green;
+}
